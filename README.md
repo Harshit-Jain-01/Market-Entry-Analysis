@@ -8,7 +8,7 @@ This project focuses on predicting potential sales for ABG Motors, a Japanese ca
 
 ## Train
 The model was trained using logistic regression using multiple linear regression on Japanese market data, incorporating customer demographics and purchase behavior as key variables.<br/>
-`$Purchase(Prediction) = β₀ + β₁Curr_Age + β₂Gender + β₃Ann_ Income + β₄Age_car(segmented)$`
+` $Purchase(Prediction) = β₀ + β₁Curr_Age + β₂Gender + β₃Ann_ Income + β₄Age_car(segmented)$ `
 
 ## Key analysis
 The predictive analysis for ABG Motors entering the Indian market yielded strong potential for success. Using a logistic regression model trained on Japanese market data, with variables like customer age, gender, income, and previous car age, the model was applied to Indian market data.
