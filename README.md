@@ -16,7 +16,7 @@ The predictive analysis for ABG Motors entering the Indian market yielded strong
 The final result predicts 29,735 car sales in the first year, which significantly exceeds ABG Motors' target of 10,000 units.
 
 ### Significant Factors: 
-Key drivers of the purchasing decision were annual income and age, with gender playing a secondary role. The normalization of income and segmentation of previous car age helped provide more relevant insights into potential customer behavior in the Indian market. The variables namely GENDER, ANN_INCOME(INR), AGE _CAR (segmented) are having a direct relationship with the purchase behaviour of the consumer amongst them AGE _CAR (segmented) has the highest direct relationship with purchase of 96% but on the other hand CURR_AGE is having an inverse relationship with purchase prediction that of -1%.
+Key drivers of the purchasing decision were annual income and age, with gender playing a secondary role. The normalization of income and segmentation of previous car age helped provide more relevant insights into potential customer behavior in the Indian market. <br/>The variables namely GENDER, ANN_INCOME(INR), AGE _CAR (segmented) are having a direct relationship with the purchase behaviour of the consumer amongst them AGE _CAR (segmented) has the highest direct relationship with purchase of 96% but on the other hand CURR_AGE is having an inverse relationship with purchase prediction that of -1%.
 
 ![image](https://github.com/user-attachments/assets/aab74562-58d5-434c-8503-e998863f1170)
 
